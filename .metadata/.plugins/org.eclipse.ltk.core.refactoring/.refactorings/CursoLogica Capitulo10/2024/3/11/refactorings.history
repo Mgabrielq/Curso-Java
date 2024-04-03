@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;escritadados&apos; to &apos;escritaarquivos&apos;&#x0A;- Original project: &apos;CursoLogica Capitulo10&apos;&#x0A;- Original element: &apos;CursoLogica Capitulo10/src/escritadados&apos;&#x0A;- Renamed element: &apos;CursoLogica Capitulo10/src/escritaarquivos&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;escritadados&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;escritadados" name="escritaarquivos" qualified="false" references="true" stamp="1710218263773" textual="false" version="1.0"/>
+</session>

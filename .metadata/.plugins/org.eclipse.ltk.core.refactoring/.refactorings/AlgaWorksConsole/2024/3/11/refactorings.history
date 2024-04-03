@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;console.interacao&apos; to &apos;Interacao&apos;&#x0A;- Original project: &apos;AlgaWorksConsole&apos;&#x0A;- Original element: &apos;console.interacao&apos;&#x0A;- Renamed element: &apos;console.Interacao&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;interacao&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;console{interacao.java[interacao" matchStrategy="1" name="Interacao" qualified="false" references="true" similarDeclarations="false" stamp="1710272346751" textual="false" version="1.0"/>
+</session>
